@@ -1,5 +1,5 @@
 
-# Tienda de videojuegos 
+# Videogame Store 
 
 Una sencilla, demasida sencilla tienda de videojuegos, a fin de práctica de Spring Boot, se muestran tarjetas con información de imagen, título, distribuidor, desarrollador descripción.
 
@@ -50,12 +50,4 @@ Generar empaquedado jar para despliegue
   mvn package
 ```
 
-
-## Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-`API_KEY`
-
-`ANOTHER_API_KEY`
 
